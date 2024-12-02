@@ -1,6 +1,7 @@
 # T_Intersection-Peer2Peer-_Traffic-_Light-_Arduinos
 
 T_Intersection Peer2Peer _Traffic _Light _Arduinos with pedestrian lights and Button
+
 d1 and d2 have the same traffic light control
 d3 and Pedestarian are synchronized with d1 and d2  when button clicked 
 (d1.green != d3.green)
