@@ -21,3 +21,6 @@ d3 and Pedestarian are synchronized with d1 and d2  when button clicked
 
 ![image](https://github.com/user-attachments/assets/11f82ecd-53a3-4d42-8c74-a9bffe65dd0c)
 
+**Sequence_Diagram:**
+
+![image](https://github.com/user-attachments/assets/10c8c4fe-5d0a-4bb5-97fc-fba8ede95397)
