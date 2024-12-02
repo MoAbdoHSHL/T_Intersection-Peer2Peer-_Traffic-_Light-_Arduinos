@@ -6,7 +6,7 @@ d3 and Pedestarian are synchronized with d1 and d2  when button clicked
 (d1.green != d3.green)
 
 
-#Simulation:#
+**Simulation:**
 
 
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/fa2ed143-4233-4da0-a059-f2b3d5fe458b">
