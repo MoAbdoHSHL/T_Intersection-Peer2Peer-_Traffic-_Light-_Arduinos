@@ -14,7 +14,7 @@ d3 and Pedestarian are synchronized with d1 and d2  when button clicked
 
 **State_Machine_Diagram:**
 
-![image](https://github.com/user-attachments/assets/2e18f428-22be-491a-b3cb-7279d316502f)
+![image](https://github.com/user-attachments/assets/3a578909-f18b-4b27-a4b2-7dcb2fda8b46)
 
 
 
