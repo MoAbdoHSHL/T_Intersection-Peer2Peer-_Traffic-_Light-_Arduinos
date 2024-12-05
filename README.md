@@ -6,6 +6,7 @@ d1 and d2 have the same traffic light control
 d3 and Pedestarian are synchronized with d1 and d2  when button clicked 
 (d1.green != d3.green)
 
+**#button connection:** the negetive terminal(-) with resistance to GND ,and the pin  / positive terminal (+) to the voltage source
 
 **Simulation:**
 
